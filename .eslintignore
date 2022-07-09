@@ -1,0 +1,7 @@
+node_modules
+dist
+.vscode
+webpack.config.js
+webpack.dev.config.js
+webpack.prod.config.js
+server/
