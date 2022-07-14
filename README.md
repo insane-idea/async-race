@@ -1,4 +1,4 @@
-# Task "Async Race"  
+# Async Race   
 
 ### [Watch deploy](https://insane-idea.github.io/async-race/)  
 ---  
