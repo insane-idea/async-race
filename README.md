@@ -8,7 +8,7 @@ Each radio-contorller has an HTTP-compatible interface. It's let you to start or
 
 ### Setup and Running
 
-Reviewer should clone repo and keep the local server running during functionality review as described below :exclamation: 
+:exclamation: Reviewer should clone repo and keep the local server running during functionality review as described below :exclamation: 
 
 - Open [deploy](https://insane-idea.github.io/async-race/)  
 - Clone this repo: `$ git clone https://github.com/insane-idea/async-race`
